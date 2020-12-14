@@ -1,15 +1,25 @@
 # What we have learned :
 
-## Git hub command 
+## Git hub command
+
 -ls = list
-cd = change directory 
-pwd = print working direct 
-Tree = whole directory of the device visualised 
-cd.. = previous directory
-ls-l = detailed directory
+
+-cd = change directory 
+
+-pwd = print working direct 
+
+-Tree = whole directory of the device visualised 
+
+-cd.. = previous directory
+
+-ls-l = detailed directory
+
 mkdir = creat folder 
+
 touch = creats file
+
 code . = opens VS
+
 clear = deletes log
 
 
