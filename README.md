@@ -10,18 +10,18 @@
 
 - Tree = whole directory of the device visualised 
 
--cd.. = previous directory
+- cd.. = previous directory
 
--ls-l = detailed directory
+- ls-l = detailed directory
 
-mkdir = creat folder 
+- mkdir = creat folder 
 
-touch = creats file
+- touch = creats file
 
-code . = opens VS
+- code . = opens VS
 
-clear = deletes log
+- clear = deletes log
 
 
-Git helps edit your main project by cloning it then merging without changing the main image
+**Git helps edit your main project by cloning it then merging without changing the main image**
 
