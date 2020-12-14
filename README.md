@@ -2,13 +2,13 @@
 
 ## Git hub command
 
--ls = list
+- ls = list
 
--cd = change directory 
+- cd = change directory 
 
--pwd = print working direct 
+- pwd = print working direct 
 
--Tree = whole directory of the device visualised 
+- Tree = whole directory of the device visualised 
 
 -cd.. = previous directory
 
